@@ -7,6 +7,11 @@
  - Place: San Franisco, USA
  - Bio: Learning Web Dev & Design
  - GitHub: [SKV](https://github.com/HacktoBest)
+ 
+ #### Name: [Anil](https://github.com/HacktoBest)
+ - Place: San Franisco, USA
+ - Bio: Learning Web Dev & Design
+ - GitHub: [Anil](https://github.com/HacktoBest)
 
 #### Name: [Tejas S](https://github.com/tejassateesh)
  - Place: Bengaluru, India
