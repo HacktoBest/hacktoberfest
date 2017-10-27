@@ -9,7 +9,7 @@
  - GitHub: [SKV](https://github.com/HacktoBest)
  
  #### Name: [Anil](https://github.com/HacktoBest)
- - Place: San Franisco, USA
+ - Place: San Franisco, US
  - Bio: Learning Web Dev & Design
  - GitHub: [Anil](https://github.com/HacktoBest)
 
